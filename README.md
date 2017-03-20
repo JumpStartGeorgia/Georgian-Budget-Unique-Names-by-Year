@@ -14,3 +14,4 @@ The CSV file has the following columns:
 * years - each of the next set of columns represents a year; the header indicates which year
 * same text over time? - this is a flag that indicates whether or not the names for each year have the same text
 
+The CSV file is used in the [Georgian Budget - Priority Mapping repo](https://github.com/JumpStartGeorgia/Georgian-Budget-Priority-Mapping).
